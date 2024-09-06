@@ -1,0 +1,12 @@
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\bin\x64\Release\net472\zxmapper.exe.config
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\bin\x64\Release\net472\zxmapper.exe
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\bin\x64\Release\net472\zxmapper.pdb
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.csproj.AssemblyReference.cache
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.Form1.resources
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.Properties.Resources.resources
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.csproj.GenerateResource.cache
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.csproj.CoreCompileInputs.cache
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.csproj.Fody.CopyLocal.cache
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.exe
+C:\Users\Praj\Downloads\zxmapper_[unknowncheats.me]_\zxmapper\obj\x64\Release\net472\zxmapper.pdb
